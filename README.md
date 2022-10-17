@@ -18,8 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.python.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-![mysql](https://user-images.githubusercontent.com/97108417/196116303-c7d3fe69-5c42-451f-96c5-affeea3fde5a.png)
-<a href="https://www.gnu.org/software/MYSQL/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MYSQL" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/MYSQL/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97108417/196116546-686da514-a80e-44cd-b7c5-a2c64f9486a2.png" alt="MYSQL" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/NOSQL/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nosql/nosql.png" alt="NOSQL" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="Django" width="40" height="40"/> </a> 
