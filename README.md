@@ -19,7 +19,9 @@
 <p align="left"> <a href="https://developer.python.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/MYSQL/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97108417/196116546-686da514-a80e-44cd-b7c5-a2c64f9486a2.png" alt="MYSQL" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/NOSQL/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nosql/nosql.png" alt="NOSQL" width="40" height="40"/> </a>
+![NoSQL]()
+
+<a href="https://www.gnu.org/software/NOSQL/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97108417/196117384-2aa31637-a74a-469e-9e59-9ec6788704c7.jpg" alt="NOSQL" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="Django" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/VisualStudioCode" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a> </p>
