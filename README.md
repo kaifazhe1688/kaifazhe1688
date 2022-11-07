@@ -7,7 +7,7 @@
 - 💪 I am actively involved in sports
 - 🥅 I am constantly learning new things
 - ⚡ I study Chinese
-- 🤹🏽 My nickname in Chinese (开发商  kāifāshāng) means Developer
+- 🤹🏽 My nickname in Chinese (开发者   kāifāzhě) means Developer
 
 
 <h3 align="left">Connect with me:</h3>
